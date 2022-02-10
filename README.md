@@ -3,7 +3,7 @@
 <!--
 **Noor600/Noor600** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 -->
-### I'm [Mohammed Noor](#-Mohammed Noor) 👋
+### I'm (#Mohammed Noor) 👋
 - [Badges](#badges)
     - [🧑🏼‍🏭 Static](#-static)
         - [📊 Analytics](#-analytics-)
