@@ -9,7 +9,8 @@
         - [📊 Analytics](#-analytics-)
         - [💻 Terminal](#-terminal-)
         - 🔭 I’m currently working on [laravel](#-laravel)
-        - 🌱 I’m currently learning [vuejs](#-vuejs)
+        - 🌱 I’m currently learning [Vuejs](#-vuejs)
+        - 🌱 I’m currently learning [Reactjs](#-reactjs)
 ## ⚡ Database [🔝](#welcome-badges-4-readmemd-profile)
 <img alt="mysql" src="https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white"> | `https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white`
 ## 📚 Education [🔝](#welcome-badges-4-readmemd-profile)
