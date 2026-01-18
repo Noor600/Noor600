@@ -6,6 +6,10 @@ I build scalable web systems using **Laravel**, with practical experience integr
 
 ---
 
+
+[![Codacy Grade](https://api.codacy.com/project/badge/Grade/PROJECT_HASH)](https://app.codacy.com/gh/Noor600/Amel-platform/dashboard)
+
+
 ## 👨‍💻 About Me
 
 - 🎓 Computer Science student (Final Year) – Sudan University of Science & Technology
