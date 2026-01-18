@@ -7,8 +7,7 @@ I build scalable web systems using **Laravel**, with practical experience integr
 ---
 
 
-[![Codacy Grade](https://api.codacy.com/project/badge/Grade/PROJECT_HASH)](https://app.codacy.com/gh/Noor600/Amel-platform/dashboard)
-
+[![Codacy Badge](https://app.codacy.com/project/badge/Grade/9c4f2007e477436eb5d4e9df1364e6de)](https://app.codacy.com/gh/Noor600/Amel-platform/dashboard?utm_source=gh&utm_medium=referral&utm_content=&utm_campaign=Badge_grade)
 
 ## 👨‍💻 About Me
 
