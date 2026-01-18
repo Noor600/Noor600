@@ -1,19 +1,18 @@
 # Mohammed Noor 👋
 
-**Back-End Web Developer (Laravel) | Full-Stack Oriented**
+**Back-End Web Developer (Laravel) | AI-Assisted Systems | Full-Stack Oriented**
 
-I specialize in building scalable, business-oriented web applications using **Laravel**.  
-My focus is on clean architecture, solid database design, and practical solutions that solve real problems.
+I build scalable web systems using **Laravel**, with practical experience integrating **AI-based analysis** into real-world applications, particularly in damage assessment and humanitarian use cases.
 
 ---
 
 ## 👨‍💻 About Me
 
 - 🎓 Computer Science student (Final Year) – Sudan University of Science & Technology
-- 🔭 Primarily working with **Laravel (Back-End)**
-- 🌱 Currently learning **Vue.js** and **React**
-- 🧠 Strong interest in system design and business applications
-- ⚙️ Experienced in building complete web systems, not just UI
+- 🔭 Back-End focused with **Laravel**
+- 🌱 Learning **Vue.js** and **React**
+- 🤖 Experience with **AI-based image analysis**
+- 🧠 Strong background in system design & data-driven decision systems
 
 ---
 
@@ -28,13 +27,19 @@ My focus is on clean architecture, solid database design, and practical solution
 - MySQL
 - Database Design & Optimization
 - Complex SQL Queries
-- Financial & Account Logic
+- Business & Financial Logic
 
 ### 🌐 Front-End
 - HTML5, CSS3, JavaScript
 - Bootstrap, jQuery
 - Vue.js (learning)
 - React.js (learning)
+
+### 🤖 AI & Data
+- Image-based Damage Assessment
+- Dataset Analysis & Preprocessing
+- Handling Class Imbalance & Noise
+- Practical Model Evaluation (Major / Minor / No Damage)
 
 ### 🧰 Tools & Environment
 - Git & GitHub
@@ -44,41 +49,47 @@ My focus is on clean architecture, solid database design, and practical solution
 
 ---
 
-## 📌 Featured Experience
+## 🚨 Graduation Project (AI)
 
-### 🔹 Laravel Systems
-- Account Statement & Financial Systems
-- Invoices, Payment & Receipt Vouchers
-- User Roles & Permissions
-- Secure CRUD Applications
-- RESTful APIs
+### 🏗️ AI-Based Building Damage Detection System
 
-### 🔹 Web Projects
-- Dynamic Booking Forms
-- Admin Dashboards
-- Multi-language Websites (Arabic / English – RTL)
-- Static to Dynamic Website Conversion
+**Objective:**  
+Detect and classify **damaged and destroyed buildings** from satellite images using Artificial Intelligence to support **humanitarian aid prioritization**.
 
-### 🔹 Graduation Project
-**Humanitarian Aid Prioritization System using Big Data**
-- Data analysis & damage assessment
-- Real-world humanitarian focus
-- Practical AI application (not theory-heavy)
+**Key Features:**
+- Classification of buildings into damage levels:
+  - No Damage
+  - Minor Damage
+  - Major / Destroyed
+- Analysis of pre-disaster vs post-disaster imagery
+- Focus on real-world challenges:
+  - Noisy satellite images
+  - Class imbalance in disaster datasets
+- Output designed to assist **decision-makers and relief organizations**
+
+**Project Focus:**
+- Practical humanitarian impact
+- Data-driven prioritization
+- AI as a support tool, not a black box
 
 ---
 
-## 🎯 Professional Focus
-- Clean Code & Maintainable Architecture
-- Business Logic Implementation
-- Backend-First Development
+## 📌 Professional Focus
+- Clean & Maintainable Code
+- Backend-First Architecture
+- Business-Oriented Systems
+- AI-Assisted Decision Support Systems
 - Scalable Laravel Applications
 
 ---
 
 ## 📫 Contact
 - GitHub: **@Noor600**
-- Open to collaboration on Laravel & Web projects
+- Open to collaboration on:
+  - Laravel Systems
+  - AI-assisted Web Applications
+  - Graduation & Research Projects
 
 ---
 
-⭐ *Always building real systems. Always improving.*
+⭐ *Building systems that matter — technically and humanely.*
